@@ -1,0 +1,15 @@
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\bin\Debug\net8.0\ConsoleApp.Fila.exe
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\bin\Debug\net8.0\ConsoleApp.Fila.deps.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\bin\Debug\net8.0\ConsoleApp.Fila.runtimeconfig.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\bin\Debug\net8.0\ConsoleApp.Fila.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\bin\Debug\net8.0\ConsoleApp.Fila.pdb
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\obj\Debug\net8.0\ConsoleApp.Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\obj\Debug\net8.0\ConsoleApp.Fila.AssemblyInfoInputs.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\obj\Debug\net8.0\ConsoleApp.Fila.AssemblyInfo.cs
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\obj\Debug\net8.0\ConsoleApp.Fila.csproj.CoreCompileInputs.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\obj\Debug\net8.0\ConsoleApp.Fila.sourcelink.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\obj\Debug\net8.0\ConsoleApp.Fila.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\obj\Debug\net8.0\refint\ConsoleApp.Fila.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\obj\Debug\net8.0\ConsoleApp.Fila.pdb
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\obj\Debug\net8.0\ConsoleApp.Fila.genruntimeconfig.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\ProjetoFila\ConsoleApp.Fila\obj\Debug\net8.0\ref\ConsoleApp.Fila.dll

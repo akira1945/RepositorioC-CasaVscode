@@ -1,0 +1,14 @@
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\bin\Debug\net8.0\ConsoleApp.Revisao.exe
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\bin\Debug\net8.0\ConsoleApp.Revisao.deps.json
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\bin\Debug\net8.0\ConsoleApp.Revisao.runtimeconfig.json
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\bin\Debug\net8.0\ConsoleApp.Revisao.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\bin\Debug\net8.0\ConsoleApp.Revisao.pdb
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\obj\Debug\net8.0\ConsoleApp.Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\obj\Debug\net8.0\ConsoleApp.Revisao.AssemblyInfoInputs.cache
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\obj\Debug\net8.0\ConsoleApp.Revisao.AssemblyInfo.cs
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\obj\Debug\net8.0\ConsoleApp.Revisao.csproj.CoreCompileInputs.cache
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\obj\Debug\net8.0\ConsoleApp.Revisao.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\obj\Debug\net8.0\refint\ConsoleApp.Revisao.dll
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\obj\Debug\net8.0\ConsoleApp.Revisao.pdb
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\obj\Debug\net8.0\ConsoleApp.Revisao.genruntimeconfig.cache
+C:\Users\luiz.alberto\Desktop\Curso Net C#\Projetos\Projeto015\ConsoleApp.Revisao\obj\Debug\net8.0\ref\ConsoleApp.Revisao.dll

@@ -1,0 +1,15 @@
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\bin\Debug\net8.0\ConsoleApp.Listas.exe
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\bin\Debug\net8.0\ConsoleApp.Listas.deps.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\bin\Debug\net8.0\ConsoleApp.Listas.runtimeconfig.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\bin\Debug\net8.0\ConsoleApp.Listas.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\bin\Debug\net8.0\ConsoleApp.Listas.pdb
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\obj\Debug\net8.0\ConsoleApp.Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\obj\Debug\net8.0\ConsoleApp.Listas.AssemblyInfoInputs.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\obj\Debug\net8.0\ConsoleApp.Listas.AssemblyInfo.cs
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\obj\Debug\net8.0\ConsoleApp.Listas.csproj.CoreCompileInputs.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\obj\Debug\net8.0\ConsoleApp.Listas.sourcelink.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\obj\Debug\net8.0\ConsoleApp.Listas.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\obj\Debug\net8.0\refint\ConsoleApp.Listas.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\obj\Debug\net8.0\ConsoleApp.Listas.pdb
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\obj\Debug\net8.0\ConsoleApp.Listas.genruntimeconfig.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Exercicio_Aula_10\ConsoleApp.Listas\obj\Debug\net8.0\ref\ConsoleApp.Listas.dll
