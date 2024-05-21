@@ -1,0 +1,14 @@
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\bin\Debug\net8.0\ConsoleAppPolimorfismo.exe
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\bin\Debug\net8.0\ConsoleAppPolimorfismo.deps.json
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\bin\Debug\net8.0\ConsoleAppPolimorfismo.runtimeconfig.json
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\bin\Debug\net8.0\ConsoleAppPolimorfismo.dll
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\bin\Debug\net8.0\ConsoleAppPolimorfismo.pdb
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\obj\Debug\net8.0\ConsoleAppPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\obj\Debug\net8.0\ConsoleAppPolimorfismo.AssemblyInfoInputs.cache
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\obj\Debug\net8.0\ConsoleAppPolimorfismo.AssemblyInfo.cs
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\obj\Debug\net8.0\ConsoleAppPolimorfismo.csproj.CoreCompileInputs.cache
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\obj\Debug\net8.0\ConsoleAppPolimorfismo.dll
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\obj\Debug\net8.0\refint\ConsoleAppPolimorfismo.dll
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\obj\Debug\net8.0\ConsoleAppPolimorfismo.pdb
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\obj\Debug\net8.0\ConsoleAppPolimorfismo.genruntimeconfig.cache
+c:\Users\akira\OneDrive\Área de Trabalho\Curco C# e NET utilizando Vscode\Projeto012\ConsoleAppPolimorfismo\obj\Debug\net8.0\ref\ConsoleAppPolimorfismo.dll
